@@ -1,0 +1,6 @@
+Changes:
+- Rendering Pipeline changes
+- LOD rendering changes to improve performance
+- Inventory tweak updates (less invasive)
+- Higherfidelity animations / fluidity
+- More QOL / Imersive content
