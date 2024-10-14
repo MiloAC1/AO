@@ -7,7 +7,16 @@
         "releasedAt": 1728439068109,
         "promotions": {
             "downloads": {
-                "generic": "https://github.com/MiloAC1/AO/releases/tag/1.31"
+                "generic": "https://github.com/MiloAC1/AO/releases/tag/1.3"
+            }
+        }
+    },
+    {
+        "id": "1.3.1",
+        "releasedAt": 1728945986326,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/MiloAC1/AO/releases/tag/1.3.1"
             }
         }
     }
