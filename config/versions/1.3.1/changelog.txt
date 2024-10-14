@@ -1,0 +1,4 @@
+# Bug Hotfixes
+- Fixed menu z-clipping
+- Updated Shader defaults
+- Removed keybind conflicts
